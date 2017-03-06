@@ -1,0 +1,60 @@
+<application>
+  <component name="PasswordDatabase">
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="a773ea0b440a46b0000aa1c958d39a3da72c419e90e1c3bd0b75bea50c979fbb" />
+          <option value="e86d036dc89ed252627ba61b6023ec0b21cbd58fbbacdbe2b530c4a553903dd8" />
+          <option value="1c4bd508eafb0d5e7d496644b8399e99455f2e76df31e4256003b64b55607b2d" />
+        </array>
+        <array>
+          <option value="54e47306aa59619d5139fd909ff021ea3042c6fe01096cd78b4c43848e7250fe" />
+          <option value="8962f7731a0b30862b4da5c9d9830a2cc5f5fc1648242d888b16d1668c2dd1ad" />
+          <option value="d904c2d50169c2d378750d3de78f059b" />
+        </array>
+      </array>
+    </option>
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="4level@app-web.ru" method="publickey" />
+    <successfulAuthentication user="abt@app-web.ru" method="publickey" />
+    <successfulAuthentication user="adwatch@app-web.ru" method="publickey" />
+    <successfulAuthentication user="agima-test@app-web.ru" method="publickey" />
+    <successfulAuthentication user="antibiotic@app-web.ru" method="publickey" />
+    <successfulAuthentication user="bbt@82.146.45.223" method="publickey" />
+    <successfulAuthentication user="bbtawards@app-web.ru" method="publickey" />
+    <successfulAuthentication user="beautymania@app-web.ru" method="password" />
+    <successfulAuthentication user="businesstravel@app-web.ru" method="publickey" />
+    <successfulAuthentication user="bx-exam2@app-web.ru" method="publickey" />
+    <successfulAuthentication user="crm-merge@app-web.ru" method="publickey" />
+    <successfulAuthentication user="dami@app-web.ru" method="publickey" />
+    <successfulAuthentication user="demo@app-web.ru" method="publickey" />
+    <successfulAuthentication user="des@app-web.ru" method="publickey" />
+    <successfulAuthentication user="factum@app-web.ru" method="publickey" />
+    <successfulAuthentication user="fmx-adrush@app-web.ru" method="publickey" />
+    <successfulAuthentication user="ford-ford@app-web.ru" method="publickey" />
+    <successfulAuthentication user="garniturchik@app-web.ru" method="publickey" />
+    <successfulAuthentication user="git@bitbucket.org" method="publickey" />
+    <successfulAuthentication user="gosgarant@app-web.ru" method="publickey" />
+    <successfulAuthentication user="imgshow@app-web.ru" method="publickey" />
+    <successfulAuthentication user="lblprint@app-web.ru" method="publickey" />
+    <successfulAuthentication user="mhua@app-web.ru" method="publickey" />
+    <successfulAuthentication user="morethantravel@app-web.ru" method="publickey" />
+    <successfulAuthentication user="pro-privod2@app-web.ru" method="publickey" />
+    <successfulAuthentication user="samokat-spb@app-web.ru" method="publickey" />
+    <successfulAuthentication user="samokat.bitrix@app-web.ru" method="publickey" />
+    <successfulAuthentication user="shelf-rf@app-web.ru" method="publickey" />
+    <successfulAuthentication user="spbtrd@app-web.ru" method="publickey" />
+    <successfulAuthentication user="starline@app-web.ru" method="publickey" />
+    <successfulAuthentication user="stndv@app-web.ru" method="publickey" />
+    <successfulAuthentication user="support@app-web.ru" method="publickey" />
+    <successfulAuthentication user="syslabs@app-web.ru" method="publickey" />
+    <successfulAuthentication user="topmotors-nsk@app-web.ru" method="publickey" />
+    <successfulAuthentication user="valiero@app-web.ru" method="publickey" />
+    <successfulAuthentication user="veryvip2016@app-web.ru" method="publickey" />
+    <successfulAuthentication user="want-sky@app-web.ru" method="publickey" />
+    <successfulAuthentication user="webkompas@app-web.ru" method="publickey" />
+    <successfulAuthentication user="worksolutions-ru@app-web.ru" method="publickey" />
+    <successfulAuthentication user="zcts@app-web.ru" method="publickey" />
+  </component>
+</application>

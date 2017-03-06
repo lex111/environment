@@ -1,0 +1,65 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.10" value="13" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="installation.uid" value="8e8b2f9d-6c67-41c7-8efa-24dc61c1abf1" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="6" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/workspace/signature-service.local/www&#10;/home/programmer/workspace/fcs.local/www&#10;/home/programmer/workspace/vhosts/utf8/wssupport/www&#10;/home/programmer/workspace/vhosts/utf8/supportbitrix/www&#10;/home/programmer/workspace/vhosts/utf8/crypto/www&#10;/home/programmer/workspace/fcs.local&#10;/home/programmer/workspace/fcs.local/www/tests/bootstrap.php&#10;/home/programmer/workspace/fcs.local/www/phpunit.xml&#10;/home/programmer/workspace/fcs.local/www/phpunit.phar&#10;/home/programmer/workspace/fcs.local/www/tests/unit&#10;/home/programmer/workspace/vhosts/utf8/fcs/www&#10;/home/programmer/workspace/vhosts/utf8/test/www&#10;/home/programmer/workspace/do.navigato.local/www&#10;/home/programmer/workspace/garnityrchik.local/www&#10;/home/programmer/workspace/vhosts/cp1251/shelf-rf/www&#10;/home/programmer/workspace/shelf-rf.local/www&#10;/home/programmer/workspace/vhosts/utf8/topmotors-nsk/www&#10;/home/programmer/workspace/vhosts/utf8/task3/www&#10;/home/programmer/Шаблоны&#10;/home/programmer/PhpstormProjects/untitled/education&#10;/home/programmer/workspace/vhosts/utf8/spbtrd/www&#10;/home/programmer/workspace/vhosts/utf8/antibiotic-info/www&#10;/home/programmer/workspace/vhosts/cp1251/ford-ford/www&#10;/home/programmer/workspace/regcafe.local/www&#10;/home/programmer/workspace/vhosts/utf8/topmotors-nsk/www/Merge_branch__task_26203__into_dev.patch&#10;/home/programmer/workspace/vhosts/cp1251/pro-privod/www&#10;/home/programmer/workspace/vhosts/utf8/factum/www&#10;/home/programmer/workspace/vhosts/utf8/starline/www&#10;/home/programmer/workspace/vhosts/utf8/topmotors-nsk/www/unnamed.patch&#10;/home/programmer/workspace/vhosts/utf8/crm-merge/www" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="false" />
+    <property name="emmet.last.wrap.abbreviations" value="h1" />
+    <property name="emmet.recent.wrap.abbreviations" value="h1&#10;p&#10;h2" />
+    <property name="fileTypeChangedCounter" value="15" />
+    <property name="ignore.ibus.blocking.warn.message" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="COMPOSER_PACKAGE_FILTER" value="phpunit/phpunit&#10;phpunit" />
+    <property name="PhpUnitSupport.hideIgnoredTests" value="true" />
+    <property name="PhpUnitSupport.hidePassedTests" value="true" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6128342" />
+    <property name="PLUGIN_FILTER" value="BLADE&#10;HTML&#10;php&#10;code&#10;PhpMetrics" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="selected.color.option.type" value="PHP_TAG" />
+    <property name="FileTemplates.SelectedTemplate" value="PHPUnit Test" />
+    <property name="settings.code.style.selected.tab.PHP" value="Tabs and Indents" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.splitter" value="0.41111112" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="179" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="ignore.power.save.mode" value="true" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7474049" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="evlsprt3.162" value="18" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="ColorChooser.RecentColors" value="187-0-13-255,,,70-187-80-255,,,0-127-0-255,,,236-6-17-255,,,38-53-236-255,,,255-34-0-255" />
+    <property name="FindSplitterProportion" value="0.5063291" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.8311547" />
+    <property name="vcs.log.details.splitter.proportion" value="0.61923075" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.splitter" value="0.5186722" />
+    <property name="Vcs.Log.Text.Filter.History" value="26698&#10;РАТИ&#10;26203&#10;24595&#10;24594" />
+    <property name="js.rename.search.in.comments" value="false" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="show.vcs.annotation.aspect.Revision" value="true" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+  </component>
+</application>

@@ -1,0 +1,558 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JSDebugConfig">
+      <project id="seminars.local" values="browser-default.preferredBrowser-null.no_mappings,browser-default.preferredBrowser-null.no_mappings" collectionTime="1450681434000" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="html-zinerit" values="ECMAScript 5.1" collectionTime="1451485098540" />
+      <project id="topmotors-nsk" values="ECMAScript 5.1" collectionTime="1481643873577" />
+      <project id="about-vip" values="ECMAScript 5.1" collectionTime="1474463236750" />
+      <project id="index.html" values="ECMAScript 5.1" collectionTime="1448355782228" />
+      <project id="demo" values="ECMAScript 5.1" collectionTime="1485952315546" />
+      <project id="businesstaveller.local" values="ECMAScript 5.1" collectionTime="1461942427185" />
+      <project id="zinerit" values="ECMAScript 5.1" collectionTime="1450786064870" />
+      <project id="businesstravel.local" values="ECMAScript 5.1" collectionTime="1466409660859" />
+      <project id="starline-auto.local" values="ECMAScript 5.1" collectionTime="1463140438028" />
+      <project id="education" values="ECMAScript 5.1" collectionTime="1485774649385" />
+      <project id="www" values="ECMAScript 5.1" collectionTime="1488442352034" />
+      <project id="want-sky.ru" values="ECMAScript 5.1" collectionTime="1458281214941" />
+      <project id="crm-merge" values="ECMAScript 5.1" collectionTime="1479287726626" />
+      <project id="starline" values="ECMAScript 5.1" collectionTime="1469446230785" />
+      <project id="adwatch.local" values="ECMAScript 5.1" collectionTime="1470059272507" />
+      <project id="antibiotic-info.local" values="ECMAScript 5.1" collectionTime="1459251752886" />
+      <project id="fcs.local" values="ECMAScript 5.1" collectionTime="1487164657493" />
+      <project id="ingerseti" values="ECMAScript 5.1" collectionTime="1468489198939" />
+      <project id="portal2.local" values="ECMAScript 5.1" collectionTime="1457622449982" />
+      <project id="businesstravelrussia.local" values="ECMAScript 5.1" collectionTime="1465897015849" />
+      <project id="valiero.local" values="ECMAScript 5.1" collectionTime="1449149683002" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1485774575920" />
+      <project id="raiton.local" values="ECMAScript 5.1" collectionTime="1449591438799" />
+      <project id="worksolutions.local" values="ECMAScript 5.1" collectionTime="1453708336946" />
+      <project id="lblprint" values="ECMAScript 5.1" collectionTime="1474035374506" />
+      <project id="seminars.local" values="ECMAScript 5.1" collectionTime="1450681433842" />
+      <project id="dami" values="ECMAScript 5.1" collectionTime="1470147140050" />
+      <project id="do.navigato.local" values="ECMAScript 5.1" collectionTime="1462454669689" />
+      <project id="rus" values="ECMAScript 5.1" collectionTime="1467265645510" />
+      <project id="ford-ford" values="ECMAScript 5.1" collectionTime="1479797046445" />
+      <project id="garnityrchik.local" values="ECMAScript 5.1" collectionTime="1461737620764" />
+      <project id="gosgarant" values="ECMAScript 5.1" collectionTime="1462862600552" />
+      <project id="react-2" values="ECMAScript 5.1" collectionTime="1453268032054" />
+      <project id="bbt.local" values="ECMAScript 5.1" collectionTime="1459169351409" />
+      <project id="ilovecarrot" values="ECMAScript 5.1" collectionTime="1468857283357" />
+    </group>
+    <group name="module type">
+      <project id="html-zinerit" values="WEB_MODULE" collectionTime="1451485097771" />
+      <project id="topmotors-nsk" values="WEB_MODULE" collectionTime="1481643873537" />
+      <project id="about-vip" values="WEB_MODULE" collectionTime="1474463236732" />
+      <project id="index.html" values="WEB_MODULE" collectionTime="1448355781211" />
+      <project id="demo" values="WEB_MODULE" collectionTime="1485952315518" />
+      <project id="businesstaveller.local" values="WEB_MODULE" collectionTime="1461942426916" />
+      <project id="zinerit" values="WEB_MODULE" collectionTime="1450786064483" />
+      <project id="businesstravel.local" values="WEB_MODULE" collectionTime="1466409660786" />
+      <project id="starline-auto.local" values="WEB_MODULE" collectionTime="1463140436934" />
+      <project id="education" values="WEB_MODULE" collectionTime="1485774649364" />
+      <project id="www" values="WEB_MODULE" collectionTime="1488442352011" />
+      <project id="want-sky.ru" values="WEB_MODULE" collectionTime="1458281214783" />
+      <project id="crm-merge" values="WEB_MODULE" collectionTime="1479287726608" />
+      <project id="starline" values="WEB_MODULE" collectionTime="1469446230751" />
+      <project id="adwatch.local" values="WEB_MODULE" collectionTime="1470059272475" />
+      <project id="antibiotic-info.local" values="WEB_MODULE" collectionTime="1459251752345" />
+      <project id="fcs.local" values="WEB_MODULE" collectionTime="1487164657481" />
+      <project id="ingerseti" values="WEB_MODULE" collectionTime="1468489198918" />
+      <project id="portal2.local" values="WEB_MODULE" collectionTime="1457622449960" />
+      <project id="businesstravelrussia.local" values="WEB_MODULE" collectionTime="1465897015265" />
+      <project id="valiero.local" values="WEB_MODULE" collectionTime="1449149678616" />
+      <project id="untitled" values="WEB_MODULE" collectionTime="1485774575891" />
+      <project id="raiton.local" values="WEB_MODULE" collectionTime="1449591438597" />
+      <project id="worksolutions.local" values="WEB_MODULE" collectionTime="1453708336751" />
+      <project id="lblprint" values="WEB_MODULE" collectionTime="1474035374496" />
+      <project id="seminars.local" values="WEB_MODULE" collectionTime="1450681433223" />
+      <project id="dami" values="WEB_MODULE" collectionTime="1470147140031" />
+      <project id="do.navigato.local" values="WEB_MODULE" collectionTime="1462454669625" />
+      <project id="rus" values="WEB_MODULE" collectionTime="1467265645297" />
+      <project id="ford-ford" values="WEB_MODULE" collectionTime="1479797046376" />
+      <project id="garnityrchik.local" values="WEB_MODULE" collectionTime="1461737620465" />
+      <project id="gosgarant" values="WEB_MODULE" collectionTime="1462862600432" />
+      <project id="react-2" values="WEB_MODULE" collectionTime="1453268032010" />
+      <project id="bbt.local" values="WEB_MODULE" collectionTime="1459169351063" />
+      <project id="ilovecarrot" values="WEB_MODULE" collectionTime="1468857283326" />
+    </group>
+    <group name="vcs">
+      <project id="valiero.local" values="Git" collectionTime="1449149678556" />
+      <project id="html-zinerit" values="Git" collectionTime="1451485097771" />
+      <project id="businesstaveller.local" values="Git" collectionTime="1461942426916" />
+      <project id="want-sky.ru" values="Git" collectionTime="1458281214783" />
+      <project id="demo" values="Git" collectionTime="1485952315518" />
+      <project id="do.navigato.local" values="Git" collectionTime="1462454669622" />
+      <project id="worksolutions.local" values="Git" collectionTime="1453708336750" />
+      <project id="www" values="Git" collectionTime="1488442352010" />
+      <project id="portal2.local" values="Git" collectionTime="1457622449960" />
+      <project id="topmotors-nsk" values="Git" collectionTime="1481643873537" />
+      <project id="adwatch.local" values="Git" collectionTime="1470059272475" />
+      <project id="antibiotic-info.local" values="Git" collectionTime="1459251752344" />
+      <project id="starline" values="Git" collectionTime="1469446230750" />
+      <project id="starline-auto.local" values="Git" collectionTime="1463140436934" />
+      <project id="businesstravelrussia.local" values="Git" collectionTime="1465897015264" />
+      <project id="ford-ford" values="Git" collectionTime="1479797046375" />
+      <project id="crm-merge" values="Git" collectionTime="1479287726608" />
+      <project id="lblprint" values="Git" collectionTime="1474035374496" />
+      <project id="businesstravel.local" values="Git" collectionTime="1466409660786" />
+      <project id="ilovecarrot" values="Git" collectionTime="1468857283324" />
+      <project id="garnityrchik.local" values="Git" collectionTime="1461737620464" />
+      <project id="gosgarant" values="Git" collectionTime="1462862600431" />
+      <project id="fcs.local" values="Git" collectionTime="1487164657481" />
+      <project id="bbt.local" values="Git" collectionTime="1459169351063" />
+      <project id="rus" values="Git" collectionTime="1467265645297" />
+      <project id="education" values="Git" collectionTime="1485774649364" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="demo" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1485952315546" />
+      <project id="ilovecarrot" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1468857283351" />
+      <project id="lblprint" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1474035374506" />
+      <project id="crm-merge" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1479287726626" />
+      <project id="adwatch.local" values="data.commit.count.1K+,data.git.root.count.1" collectionTime="1470059272505" />
+      <project id="ford-ford" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1479797046443" />
+      <project id="education" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1485774649385" />
+      <project id="starline" values="data.git.root.count.1,data.commit.count.1K+" collectionTime="1469446230782" />
+      <project id="topmotors-nsk" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1481643873576" />
+      <project id="fcs.local" values="data.commit.count.10K+,data.git.root.count.2+" collectionTime="1487164657493" />
+      <project id="www" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1488442352032" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="portal2.local" values="PhpRemoteDebugRunConfigurationType" collectionTime="1457622449961" />
+      <project id="seminars.local" values="PHPUnitRunConfigurationType" collectionTime="1450681433224" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="react-2" values="js.build_tools.gulp" collectionTime="1453268032010" />
+      <project id="seminars.local" values="PhpLocalRunConfigurationType,JavascriptDebugType" collectionTime="1450681433224" />
+    </group>
+    <group name="file-type">
+      <project id="html-zinerit" values="CSS,SCSS,JSON,Sass,UNKNOWN,PLAIN_TEXT,HTML,PATCH,Jade,CoffeeScript,Native,PHP,JavaScript,YAML,SourceMap,Images,ESLint,JSHint,JSCS,XML" collectionTime="1451485097907" />
+      <project id="topmotors-nsk" values="UNKNOWN,SmartyConfig,PHP,ARCHIVE,SourceMap,htaccess,SQL,JSON Schema,PLAIN_TEXT,XML,Images,CSS,HTML,JavaScript" collectionTime="1481643873576" />
+      <project id="about-vip" values="PHP" collectionTime="1474463236748" />
+      <project id="index.html" values="HTML,UNKNOWN" collectionTime="1448355781265" />
+      <project id="demo" values="Native,HTML,PLAIN_TEXT" collectionTime="1485952315544" />
+      <project id="businesstaveller.local" values="CSS,PHP,JSON,HTML,PLAIN_TEXT,UNKNOWN,ARCHIVE,JavaScript,SQL,Images,XML,Smarty,Native,htaccess" collectionTime="1461942427039" />
+      <project id="zinerit" values="XML,UNKNOWN,HTML,CSS,JavaScript,Native,Images,PLAIN_TEXT" collectionTime="1450786064707" />
+      <project id="businesstravel.local" values="PLAIN_TEXT,htaccess,Smarty,ARCHIVE,PHP,SQL,Native,XML,JavaScript,Images,HTML,CSS,UNKNOWN,JSON" collectionTime="1466409660856" />
+      <project id="starline-auto.local" values="UNKNOWN,PLAIN_TEXT,XML" collectionTime="1463140436981" />
+      <project id="education" values="Images,PHP,XML,UNKNOWN,JSON Schema,HTML,JavaScript,CSS,PLAIN_TEXT" collectionTime="1485774649385" />
+      <project id="www" values="CSS,UNKNOWN,JavaScript,Images,PLAIN_TEXT,Blade,PHAR,htaccess,Locale,HTML,ARCHIVE,Native,Ini,PHP,JSON Schema,XML,TypeScript,C++" collectionTime="1488442352031" />
+      <project id="want-sky.ru" values="Images,htaccess,Native,PHP,JavaScript,CSS,UNKNOWN,XML,JSON,SCSS,SQL,HAML,ARCHIVE,Smarty,SourceMap,PLAIN_TEXT,HTML" collectionTime="1458281214809" />
+      <project id="crm-merge" values="PHP,Native,UNKNOWN,JSON Schema,IDEA_MODULE,JavaScript,PLAIN_TEXT,SQL,Images,htaccess,PHAR,HTML,XML,CSS,ARCHIVE" collectionTime="1479287726626" />
+      <project id="starline" values="JavaScript,PHP,htaccess,Smarty,HTML,ARCHIVE,JSON Schema,CSS,PLAIN_TEXT,SQL,Native,UNKNOWN,IDEA_MODULE,XML,Images,Markdown" collectionTime="1469446230779" />
+      <project id="adwatch.local" values="PHP,SCSS,XML,Markdown,htaccess,Images,SourceMap,Smarty,CSS,PLAIN_TEXT,IDEA_MODULE,HTML,Native,JavaScript,UNKNOWN,JSON Schema,ARCHIVE,SQL" collectionTime="1470059272504" />
+      <project id="antibiotic-info.local" values="SQL,CSS,Images,UNKNOWN,Jade,SCSS,JavaScript,XML,PHP,HTML,PLAIN_TEXT,JSON,htaccess" collectionTime="1459251752708" />
+      <project id="fcs.local" values="PATCH,PLAIN_TEXT,Native,ARCHIVE,CSS,PHP,TypeScript,UNKNOWN,SourceMap,HTML,PHAR,htaccess,IDEA_MODULE,Ini,JSON Schema,JavaScript,C++,SQLite Database,Locale,SQL,Images,XML" collectionTime="1487164657487" />
+      <project id="ingerseti" values="UNKNOWN,Images,XML,PHP,CSS,htaccess,PLAIN_TEXT,HTML,SQL,JSON Schema,Native,Markdown,IDEA_MODULE,JavaScript,ARCHIVE" collectionTime="1468489198936" />
+      <project id="portal2.local" values="JSON,HTML,Ini,C++,PHP,CSS,Locale,PLAIN_TEXT,SQL,JavaScript,UNKNOWN,TypeScript,Native,XML,ARCHIVE,htaccess,Images" collectionTime="1457622449975" />
+      <project id="businesstravelrussia.local" values="CSS,HTML,htaccess,SQL,Images,Native,JavaScript,XML,Ini,PHP,UNKNOWN,PLAIN_TEXT" collectionTime="1465897015693" />
+      <project id="valiero.local" values="JavaScript,HTML,SQL,JSON,PLAIN_TEXT,htaccess,CSS,UNKNOWN,ARCHIVE,SCSS,XML,PHP,SourceMap,Images" collectionTime="1449149682611" />
+      <project id="untitled" values="PHP,HTML,UNKNOWN,XML,PLAIN_TEXT,CSS,Images,JavaScript,JSON Schema" collectionTime="1485774575920" />
+      <project id="raiton.local" values="PHP,PLAIN_TEXT,UNKNOWN,SQL,Images,CSS,JavaScript,XML,JSON,htaccess,HTML,ARCHIVE" collectionTime="1449591438606" />
+      <project id="worksolutions.local" values="JavaScript,XML,Native,htaccess,SQL,PHP,PLAIN_TEXT,UNKNOWN,Images,PHAR,JSON,CSS,SourceMap,HTML,ARCHIVE" collectionTime="1453708336792" />
+      <project id="lblprint" values="CSS,XML,htaccess,JSON Schema,Images,ARCHIVE,IDEA_MODULE,PLAIN_TEXT,SQL,HTML,Markdown,UNKNOWN,JavaScript,PHP,Native" collectionTime="1474035374506" />
+      <project id="seminars.local" values="htaccess,XML,UNKNOWN,PLAIN_TEXT,PHP" collectionTime="1450681433335" />
+      <project id="dami" values="XML,SQL,IDEA_MODULE,htaccess,PLAIN_TEXT,CSS,PHP,UNKNOWN,Images,JSON Schema,HTML,Native,JavaScript,Markdown,ARCHIVE" collectionTime="1470147140050" />
+      <project id="do.navigato.local" values="HTML,Native,XML,CSS,PHP,htaccess,SQL,JavaScript,Images,PLAIN_TEXT,JSON,UNKNOWN,ARCHIVE" collectionTime="1462454669688" />
+      <project id="rus" values="UNKNOWN,ESLint,JavaScript,JSON,Images,XML,HTML,PLAIN_TEXT,CSS,Jade,SourceMap,Stylus" collectionTime="1467265645353" />
+      <project id="ford-ford" values="JSON Schema,JavaScript,PLAIN_TEXT,Smarty,SQL,Images,HTML,ARCHIVE,htaccess,CSS,UNKNOWN,Native,PHP,IDEA_MODULE,XML" collectionTime="1479797046440" />
+      <project id="garnityrchik.local" values="XML,CSS,JSON,JavaScript,UNKNOWN,PHP,ARCHIVE,Images,SQL,HTML,PLAIN_TEXT,htaccess" collectionTime="1461737620566" />
+      <project id="gosgarant" values="PLAIN_TEXT,Native,CSS,UNKNOWN,Images,ARCHIVE,htaccess,XML,JavaScript,SQL,HTML,PHP" collectionTime="1462862600530" />
+      <project id="react-2" values="PATCH,YAML,JavaScript,HTML,JSHint,SourceMap,CSS,JSON,UNKNOWN,ESLint,PLAIN_TEXT,XML,C++,JSCS,CoffeeScript" collectionTime="1453268032016" />
+      <project id="bbt.local" values="SQL,JavaScript,ARCHIVE,htaccess,HTML,SCSS,UNKNOWN,PLAIN_TEXT,CSS,PHP,XML,Images" collectionTime="1459169351408" />
+      <project id="ilovecarrot" values="Markdown,HTML,ARCHIVE,Native,Images,CSS,PHP,XML,IDEA_MODULE,UNKNOWN,PLAIN_TEXT,htaccess,SQL,JSON Schema,JavaScript" collectionTime="1468857283346" />
+    </group>
+    <group name="VCS Log Ui Settings">
+      <project id="crm-merge" values="ui.highlighter.CURRENT_BRANCH.enabled,ui.highlighter.MY_COMMITS.enabled,ui.sort.normal.enabled,ui.sort.bek.disabled,ui.details.enabled,ui.long.edges.disabled,ui.sort.linear.bek.disabled,ui.highlighter.MERGE_COMMITS.enabled,ui.branches.panel.disabled" collectionTime="1479287726626" />
+      <project id="topmotors-nsk" values="ui.sort.bek.disabled,ui.sort.normal.enabled,ui.details.enabled,ui.highlighter.MY_COMMITS.enabled,ui.branches.panel.disabled,ui.highlighter.MERGE_COMMITS.enabled,ui.long.edges.disabled,ui.sort.linear.bek.disabled,ui.highlighter.CURRENT_BRANCH.enabled" collectionTime="1481643873577" />
+      <project id="www" values="ui.highlighter.MY_COMMITS.enabled,ui.sort.bek.disabled,ui.highlighter.MERGE_COMMITS.enabled,ui.details.enabled,ui.sort.linear.bek.disabled,ui.long.edges.disabled,ui.highlighter.CURRENT_BRANCH.enabled,ui.branches.panel.disabled,ui.sort.normal.enabled" collectionTime="1488442352033" />
+    </group>
+    <group name="VCS Log">
+      <project id="businesstravel.local" values="vcs.log.git.root.count,vcs.log.commit.count=1324" collectionTime="1466409660858" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="html-zinerit" values="not installed" collectionTime="1451485098565" />
+      <project id="topmotors-nsk" values="5.6.11-1ubuntu3.1" collectionTime="1481643873577" />
+      <project id="about-vip" values="5.6.11-1ubuntu3.1" collectionTime="1474463236752" />
+      <project id="index.html" values="not installed" collectionTime="1448355782265" />
+      <project id="demo" values="5.6.11-1ubuntu3.1" collectionTime="1485952315553" />
+      <project id="businesstaveller.local" values="5.6.11-1ubuntu3.1" collectionTime="1461942427267" />
+      <project id="zinerit" values="not installed" collectionTime="1450786064898" />
+      <project id="businesstravel.local" values="5.6.11-1ubuntu3.1" collectionTime="1466409660861" />
+      <project id="starline-auto.local" values="5.6.11-1ubuntu3.1" collectionTime="1463140438665" />
+      <project id="education" values="5.6.11-1ubuntu3.1" collectionTime="1485774649386" />
+      <project id="www" values="not installed" collectionTime="1488442352036" />
+      <project id="want-sky.ru" values="not installed" collectionTime="1458281214947" />
+      <project id="crm-merge" values="5.6.11-1ubuntu3.1" collectionTime="1479287726626" />
+      <project id="starline" values="5.6.11-1ubuntu3.1" collectionTime="1469446230824" />
+      <project id="adwatch.local" values="not installed" collectionTime="1470059272509" />
+      <project id="antibiotic-info.local" values="not installed" collectionTime="1459251753014" />
+      <project id="fcs.local" values="5.6.11-1ubuntu3.1" collectionTime="1487164657494" />
+      <project id="ingerseti" values="5.6.11-1ubuntu3.1" collectionTime="1468489199018" />
+      <project id="portal2.local" values="not installed" collectionTime="1457622449982" />
+      <project id="businesstravelrussia.local" values="not installed" collectionTime="1465897016126" />
+      <project id="valiero.local" values="not installed" collectionTime="1449149683045" />
+      <project id="untitled" values="5.6.11-1ubuntu3.1" collectionTime="1485774575921" />
+      <project id="raiton.local" values="not installed" collectionTime="1449591438800" />
+      <project id="worksolutions.local" values="not installed" collectionTime="1453708336957" />
+      <project id="lblprint" values="5.6.11-1ubuntu3.1" collectionTime="1474035374507" />
+      <project id="seminars.local" values="5.6.11-1ubuntu3.1" collectionTime="1450681434033" />
+      <project id="dami" values="5.6.11-1ubuntu3.1" collectionTime="1470147140052" />
+      <project id="do.navigato.local" values="5.6.11-1ubuntu3.1" collectionTime="1462454670131" />
+      <project id="rus" values="5.6.11-1ubuntu3.1" collectionTime="1467265645585" />
+      <project id="ford-ford" values="5.6.11-1ubuntu3.1" collectionTime="1479797046479" />
+      <project id="garnityrchik.local" values="5.6.11-1ubuntu3.1" collectionTime="1461737620833" />
+      <project id="gosgarant" values="not installed" collectionTime="1462862600566" />
+      <project id="react-2" values="not installed" collectionTime="1453268032083" />
+      <project id="bbt.local" values="not installed" collectionTime="1459169351409" />
+      <project id="ilovecarrot" values="5.6.11-1ubuntu3.1" collectionTime="1468857283386" />
+    </group>
+    <group name="php-interpreter-debug-ext">
+      <project id="ingerseti" values="xdebug" collectionTime="1468489199021" />
+      <project id="about-vip" values="xdebug" collectionTime="1474463236752" />
+      <project id="demo" values="xdebug" collectionTime="1485952315554" />
+      <project id="do.navigato.local" values="xdebug" collectionTime="1462454670314" />
+      <project id="dami" values="xdebug" collectionTime="1470147140052" />
+      <project id="starline-auto.local" values="xdebug" collectionTime="1463140438705" />
+      <project id="businesstaveller.local" values="xdebug" collectionTime="1461942427278" />
+      <project id="education" values="xdebug" collectionTime="1485774649386" />
+      <project id="starline" values="xdebug" collectionTime="1469446230832" />
+      <project id="garnityrchik.local" values="xdebug" collectionTime="1461737620836" />
+      <project id="seminars.local" values="xdebug" collectionTime="1450681434043" />
+      <project id="ford-ford" values="xdebug" collectionTime="1479797046482" />
+      <project id="businesstravel.local" values="xdebug" collectionTime="1466409660861" />
+      <project id="ilovecarrot" values="xdebug" collectionTime="1468857283388" />
+      <project id="fcs.local" values="xdebug" collectionTime="1487164657494" />
+      <project id="topmotors-nsk" values="xdebug" collectionTime="1481643873577" />
+      <project id="crm-merge" values="xdebug" collectionTime="1479287726626" />
+      <project id="rus" values="xdebug" collectionTime="1467265645592" />
+      <project id="lblprint" values="xdebug" collectionTime="1474035374507" />
+      <project id="untitled" values="xdebug" collectionTime="1485774575921" />
+    </group>
+    <group name="deployment server">
+      <project id="html-zinerit" values="FTP" collectionTime="1451485098540" />
+      <project id="dami" values="SFTP" collectionTime="1470147140050" />
+    </group>
+    <group name="php-interpreters">
+      <project id="html-zinerit" values="1" collectionTime="1451485098635" />
+      <project id="topmotors-nsk" values="1" collectionTime="1481643873577" />
+      <project id="about-vip" values="1" collectionTime="1474463236752" />
+      <project id="index.html" values="0" collectionTime="1448355782279" />
+      <project id="demo" values="1" collectionTime="1485952315553" />
+      <project id="businesstaveller.local" values="1" collectionTime="1461942427267" />
+      <project id="zinerit" values="1" collectionTime="1450786065008" />
+      <project id="businesstravel.local" values="1" collectionTime="1466409660861" />
+      <project id="starline-auto.local" values="1" collectionTime="1463140438665" />
+      <project id="education" values="1" collectionTime="1485774649386" />
+      <project id="www" values="2" collectionTime="1488442352037" />
+      <project id="want-sky.ru" values="1" collectionTime="1458281214961" />
+      <project id="crm-merge" values="1" collectionTime="1479287726626" />
+      <project id="starline" values="1" collectionTime="1469446230824" />
+      <project id="adwatch.local" values="1" collectionTime="1470059272527" />
+      <project id="antibiotic-info.local" values="1" collectionTime="1459251753442" />
+      <project id="fcs.local" values="2" collectionTime="1487164657494" />
+      <project id="ingerseti" values="1" collectionTime="1468489199018" />
+      <project id="portal2.local" values="1" collectionTime="1457622450013" />
+      <project id="businesstravelrussia.local" values="1" collectionTime="1465897017112" />
+      <project id="valiero.local" values="0" collectionTime="1449149683045" />
+      <project id="untitled" values="1" collectionTime="1485774575921" />
+      <project id="raiton.local" values="0" collectionTime="1449591438800" />
+      <project id="worksolutions.local" values="1" collectionTime="1453708337015" />
+      <project id="lblprint" values="1" collectionTime="1474035374507" />
+      <project id="seminars.local" values="1" collectionTime="1450681434033" />
+      <project id="dami" values="1" collectionTime="1470147140052" />
+      <project id="do.navigato.local" values="1" collectionTime="1462454670131" />
+      <project id="rus" values="1" collectionTime="1467265645585" />
+      <project id="ford-ford" values="1" collectionTime="1479797046479" />
+      <project id="garnityrchik.local" values="1" collectionTime="1461737620833" />
+      <project id="gosgarant" values="1" collectionTime="1462862600631" />
+      <project id="react-2" values="1" collectionTime="1453268032179" />
+      <project id="bbt.local" values="1" collectionTime="1459169351409" />
+      <project id="ilovecarrot" values="1" collectionTime="1468857283387" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="html-zinerit" values="Project,Project" collectionTime="1451485098540" />
+      <project id="topmotors-nsk" values="Project,Project" collectionTime="1481643873577" />
+      <project id="about-vip" values="Project,Project" collectionTime="1474463236750" />
+      <project id="index.html" values="Project,Project" collectionTime="1448355782228" />
+      <project id="demo" values="Project,Project" collectionTime="1485952315546" />
+      <project id="businesstaveller.local" values="Project,Project" collectionTime="1461942427185" />
+      <project id="zinerit" values="Project,Project" collectionTime="1450786064870" />
+      <project id="businesstravel.local" values="Project,Project" collectionTime="1466409660859" />
+      <project id="starline-auto.local" values="Project,Project" collectionTime="1463140438028" />
+      <project id="education" values="Project,Project" collectionTime="1485774649385" />
+      <project id="www" values="Project,Project" collectionTime="1488442352034" />
+      <project id="want-sky.ru" values="Project,Project" collectionTime="1458281214941" />
+      <project id="crm-merge" values="Project,Project" collectionTime="1479287726626" />
+      <project id="starline" values="Project,Project" collectionTime="1469446230785" />
+      <project id="adwatch.local" values="Project,Project" collectionTime="1470059272507" />
+      <project id="antibiotic-info.local" values="Project,Project" collectionTime="1459251752886" />
+      <project id="fcs.local" values="Project,Project,Directory" collectionTime="1487164657493" />
+      <project id="ingerseti" values="Project,Project" collectionTime="1468489198939" />
+      <project id="portal2.local" values="Project,Project" collectionTime="1457622449981" />
+      <project id="businesstravelrussia.local" values="Project,Project" collectionTime="1465897015848" />
+      <project id="valiero.local" values="Project,Project" collectionTime="1449149683002" />
+      <project id="untitled" values="Project,Project" collectionTime="1485774575920" />
+      <project id="raiton.local" values="Project,Project" collectionTime="1449591438799" />
+      <project id="worksolutions.local" values="Project,Project" collectionTime="1453708336946" />
+      <project id="lblprint" values="Project,Project" collectionTime="1474035374506" />
+      <project id="seminars.local" values="Project,Project" collectionTime="1450681433842" />
+      <project id="dami" values="Project,Project" collectionTime="1470147140050" />
+      <project id="do.navigato.local" values="Project,Project" collectionTime="1462454669689" />
+      <project id="rus" values="Project,Project" collectionTime="1467265645510" />
+      <project id="ford-ford" values="Project,Project" collectionTime="1479797046445" />
+      <project id="garnityrchik.local" values="Project,Project" collectionTime="1461737620764" />
+      <project id="gosgarant" values="Project,Project" collectionTime="1462862600552" />
+      <project id="react-2" values="Project,Project,Project" collectionTime="1453268032054" />
+      <project id="bbt.local" values="Project,Project" collectionTime="1459169351409" />
+      <project id="ilovecarrot" values="Project,Project" collectionTime="1468857283357" />
+    </group>
+    <group name="Git">
+      <project id="about-vip" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1474463236749" />
+      <project id="demo" values="data.remote.branches.count.1,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,data.local.branches.count.1,config.save.policy.STASH" collectionTime="1485952315546" />
+      <project id="dami" values="config.force.push.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1470147140050" />
+      <project id="www" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,data.local.branches.count.2+,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,data.remote.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1488442352033" />
+      <project id="topmotors-nsk" values="config.ssh.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,data.remote.branches.count.2+,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.save.policy.STASH,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT" collectionTime="1481643873577" />
+      <project id="adwatch.local" values="config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,data.local.branches.count.5+,data.remotes.in.project.1,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,data.remote.branches.count.8+,config.warn.about.detached.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1470059272506" />
+      <project id="education" values="data.remotes.in.project.1,config.warn.about.crlf.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,data.remote.branches.count.1,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.local.branches.count.1" collectionTime="1485774649385" />
+      <project id="crm-merge" values="config.warn.about.crlf.enabled,data.remote.branches.count.1,config.push.autoupdate.disabled,config.save.policy.STASH,config.ssh.enabled,config.warn.about.detached.enabled,data.local.branches.count.5+,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1479287726626" />
+      <project id="ingerseti" values="config.warn.about.detached.enabled,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1468489198938" />
+      <project id="ford-ford" values="data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.autoupdate.disabled,data.local.branches.count.15+,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.warn.about.detached.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1479797046444" />
+      <project id="ilovecarrot" values="data.remotes.in.project.1,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,data.local.branches.count.2+,data.remote.branches.count.2+,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled" collectionTime="1468857283354" />
+      <project id="fcs.local" values="config.ssh.enabled,config.repo.sync.DONT_SYNC,data.remote.branches.count.1,data.remotes.in.project.1,config.push.autoupdate.disabled,data.local.branches.count.2+,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,data.remotes.in.project.1,config.warn.about.crlf.enabled,data.remote.branches.count.15+,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.local.branches.count.1,config.push.update.all.roots.enabled" collectionTime="1487164657493" />
+      <project id="starline" values="config.ssh.enabled,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.warn.about.detached.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.5+,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1469446230784" />
+      <project id="lblprint" values="config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.ssh.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,data.local.branches.count.2+,config.push.update.all.roots.enabled" collectionTime="1474035374506" />
+      <project id="untitled" values="config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled" collectionTime="1485774575920" />
+    </group>
+    <group name="images.ide.background">
+      <project id="about-vip" values="editor 0,frame 0" collectionTime="1474463236748" />
+      <project id="demo" values="frame 0,editor 0" collectionTime="1485952315546" />
+      <project id="dami" values="editor 0,frame 0" collectionTime="1470147140050" />
+      <project id="www" values="frame 0,editor 0" collectionTime="1488442352033" />
+      <project id="topmotors-nsk" values="editor 0,frame 0" collectionTime="1481643873577" />
+      <project id="adwatch.local" values="editor 0,frame 0" collectionTime="1470059272505" />
+      <project id="education" values="editor 0,frame 0" collectionTime="1485774649385" />
+      <project id="crm-merge" values="frame 0,editor 0" collectionTime="1479287726626" />
+      <project id="ingerseti" values="frame 0,editor 0" collectionTime="1468489198937" />
+      <project id="ford-ford" values="frame 0,editor 0" collectionTime="1479797046443" />
+      <project id="ilovecarrot" values="editor 0,frame 0" collectionTime="1468857283351" />
+      <project id="fcs.local" values="frame 0,editor 0" collectionTime="1487164657493" />
+      <project id="starline" values="frame 0,editor 0" collectionTime="1469446230782" />
+      <project id="lblprint" values="frame 0,editor 0" collectionTime="1474035374506" />
+      <project id="untitled" values="editor 0,frame 0" collectionTime="1485774575920" />
+    </group>
+    <group name="php-servers">
+      <project id="html-zinerit" values="0" collectionTime="1451485098565" />
+      <project id="topmotors-nsk" values="1" collectionTime="1481643873577" />
+      <project id="about-vip" values="0" collectionTime="1474463236751" />
+      <project id="index.html" values="0" collectionTime="1448355782265" />
+      <project id="demo" values="0" collectionTime="1485952315551" />
+      <project id="businesstaveller.local" values="1" collectionTime="1461942427206" />
+      <project id="zinerit" values="0" collectionTime="1450786064898" />
+      <project id="businesstravel.local" values="0" collectionTime="1466409660861" />
+      <project id="starline-auto.local" values="0" collectionTime="1463140438188" />
+      <project id="education" values="0" collectionTime="1485774649386" />
+      <project id="www" values="1" collectionTime="1488442352036" />
+      <project id="want-sky.ru" values="1" collectionTime="1458281214947" />
+      <project id="crm-merge" values="1" collectionTime="1479287726626" />
+      <project id="starline" values="1" collectionTime="1469446230788" />
+      <project id="adwatch.local" values="0" collectionTime="1470059272509" />
+      <project id="antibiotic-info.local" values="0" collectionTime="1459251753014" />
+      <project id="fcs.local" values="0" collectionTime="1487164657494" />
+      <project id="ingerseti" values="0" collectionTime="1468489198944" />
+      <project id="portal2.local" values="2" collectionTime="1457622449982" />
+      <project id="businesstravelrussia.local" values="0" collectionTime="1465897016126" />
+      <project id="valiero.local" values="1" collectionTime="1449149683045" />
+      <project id="untitled" values="0" collectionTime="1485774575920" />
+      <project id="raiton.local" values="0" collectionTime="1449591438800" />
+      <project id="worksolutions.local" values="0" collectionTime="1453708336957" />
+      <project id="lblprint" values="0" collectionTime="1474035374507" />
+      <project id="seminars.local" values="0" collectionTime="1450681434026" />
+      <project id="dami" values="0" collectionTime="1470147140052" />
+      <project id="do.navigato.local" values="2" collectionTime="1462454669689" />
+      <project id="rus" values="0" collectionTime="1467265645519" />
+      <project id="ford-ford" values="0" collectionTime="1479797046450" />
+      <project id="garnityrchik.local" values="1" collectionTime="1461737620779" />
+      <project id="gosgarant" values="2" collectionTime="1462862600566" />
+      <project id="react-2" values="0" collectionTime="1453268032083" />
+      <project id="bbt.local" values="1" collectionTime="1459169351409" />
+      <project id="ilovecarrot" values="1" collectionTime="1468857283359" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="html-zinerit" values="0" collectionTime="1451485098637" />
+      <project id="topmotors-nsk" values="0" collectionTime="1481643873578" />
+      <project id="about-vip" values="0" collectionTime="1474463236752" />
+      <project id="index.html" values="0" collectionTime="1448355782281" />
+      <project id="demo" values="0" collectionTime="1485952315555" />
+      <project id="businesstaveller.local" values="0" collectionTime="1461942427279" />
+      <project id="zinerit" values="0" collectionTime="1450786065010" />
+      <project id="businesstravel.local" values="0" collectionTime="1466409660861" />
+      <project id="starline-auto.local" values="0" collectionTime="1463140438706" />
+      <project id="education" values="0" collectionTime="1485774649386" />
+      <project id="www" values="0" collectionTime="1488442352044" />
+      <project id="want-sky.ru" values="0" collectionTime="1458281214966" />
+      <project id="crm-merge" values="0" collectionTime="1479287726626" />
+      <project id="starline" values="0" collectionTime="1469446230832" />
+      <project id="adwatch.local" values="0" collectionTime="1470059272527" />
+      <project id="antibiotic-info.local" values="0" collectionTime="1459251753443" />
+      <project id="fcs.local" values="0" collectionTime="1487164657494" />
+      <project id="ingerseti" values="0" collectionTime="1468489199022" />
+      <project id="portal2.local" values="0" collectionTime="1457622450014" />
+      <project id="businesstravelrussia.local" values="0" collectionTime="1465897017167" />
+      <project id="valiero.local" values="0" collectionTime="1449149684209" />
+      <project id="untitled" values="0" collectionTime="1485774575921" />
+      <project id="raiton.local" values="0" collectionTime="1449591438800" />
+      <project id="worksolutions.local" values="0" collectionTime="1453708337017" />
+      <project id="lblprint" values="0" collectionTime="1474035374507" />
+      <project id="seminars.local" values="0" collectionTime="1450681434045" />
+      <project id="dami" values="0" collectionTime="1470147140052" />
+      <project id="do.navigato.local" values="0" collectionTime="1462454670315" />
+      <project id="rus" values="0" collectionTime="1467265645594" />
+      <project id="ford-ford" values="0" collectionTime="1479797046483" />
+      <project id="garnityrchik.local" values="0" collectionTime="1461737620838" />
+      <project id="gosgarant" values="0" collectionTime="1462862600632" />
+      <project id="react-2" values="0" collectionTime="1453268032180" />
+      <project id="bbt.local" values="0" collectionTime="1459169351409" />
+      <project id="ilovecarrot" values="0" collectionTime="1468857283388" />
+    </group>
+    <group name="php-include-path">
+      <project id="html-zinerit" values="0" collectionTime="1451485098541" />
+      <project id="topmotors-nsk" values="0" collectionTime="1481643873577" />
+      <project id="about-vip" values="0" collectionTime="1474463236751" />
+      <project id="index.html" values="0" collectionTime="1448355782253" />
+      <project id="demo" values="0" collectionTime="1485952315548" />
+      <project id="businesstaveller.local" values="0" collectionTime="1461942427186" />
+      <project id="zinerit" values="0" collectionTime="1450786064877" />
+      <project id="businesstravel.local" values="0" collectionTime="1466409660860" />
+      <project id="starline-auto.local" values="0" collectionTime="1463140438111" />
+      <project id="education" values="0" collectionTime="1485774649385" />
+      <project id="www" values="0" collectionTime="1488442352036" />
+      <project id="want-sky.ru" values="0" collectionTime="1458281214942" />
+      <project id="crm-merge" values="0" collectionTime="1479287726626" />
+      <project id="starline" values="0" collectionTime="1469446230788" />
+      <project id="adwatch.local" values="0" collectionTime="1470059272508" />
+      <project id="antibiotic-info.local" values="0" collectionTime="1459251752918" />
+      <project id="fcs.local" values="0" collectionTime="1487164657493" />
+      <project id="ingerseti" values="0" collectionTime="1468489198941" />
+      <project id="portal2.local" values="0" collectionTime="1457622449982" />
+      <project id="businesstravelrussia.local" values="0" collectionTime="1465897015897" />
+      <project id="valiero.local" values="0" collectionTime="1449149683038" />
+      <project id="untitled" values="0" collectionTime="1485774575920" />
+      <project id="raiton.local" values="0" collectionTime="1449591438799" />
+      <project id="worksolutions.local" values="0" collectionTime="1453708336947" />
+      <project id="lblprint" values="0" collectionTime="1474035374506" />
+      <project id="seminars.local" values="1" collectionTime="1450681434000" />
+      <project id="dami" values="0" collectionTime="1470147140052" />
+      <project id="do.navigato.local" values="0" collectionTime="1462454669689" />
+      <project id="rus" values="0" collectionTime="1467265645511" />
+      <project id="ford-ford" values="0" collectionTime="1479797046447" />
+      <project id="garnityrchik.local" values="0" collectionTime="1461737620765" />
+      <project id="gosgarant" values="0" collectionTime="1462862600552" />
+      <project id="react-2" values="0" collectionTime="1453268032054" />
+      <project id="bbt.local" values="0" collectionTime="1459169351409" />
+      <project id="ilovecarrot" values="0" collectionTime="1468857283359" />
+    </group>
+    <group name="php-server-debug-ext">
+      <project id="ilovecarrot" values="xdebug" collectionTime="1468857283388" />
+      <project id="garnityrchik.local" values="xdebug" collectionTime="1461737620837" />
+      <project id="crm-merge" values="xdebug" collectionTime="1479287726626" />
+      <project id="valiero.local" values="xdebug" collectionTime="1449149684209" />
+      <project id="starline" values="xdebug" collectionTime="1469446230832" />
+      <project id="want-sky.ru" values="xdebug" collectionTime="1458281214964" />
+      <project id="www" values="xdebug" collectionTime="1488442352043" />
+      <project id="topmotors-nsk" values="xdebug" collectionTime="1481643873577" />
+      <project id="businesstaveller.local" values="xdebug" collectionTime="1461942427278" />
+      <project id="bbt.local" values="xdebug" collectionTime="1459169351409" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.PHP Empty Project" count="2" />
+      <entry feature="CreateFile.CreateFileAction" count="41" />
+      <entry feature="JSDebugConfig.Debug.browser-default.preferredBrowser-null.no_mappings" count="6" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="7" />
+      <entry feature="NewDirectoryProjectAction.empty" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="6" />
+      <entry feature="diff.DiffSettings.Tool.Side-by-side viewer" count="1" />
+      <entry feature="diff.DiffSettings.Tool.Unified viewer" count="1" />
+      <entry feature="diff.DirDiffTableModel" count="3" />
+      <entry feature="diff.DirDiffViewer" count="3" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="6" />
+      <entry feature="execute.JavascriptDebugType.Run" count="7" />
+      <entry feature="execute.PHPUnitRunConfigurationType.Coverage" count="1" />
+      <entry feature="execute.PHPUnitRunConfigurationType.Debug" count="1" />
+      <entry feature="execute.PHPUnitRunConfigurationType.Run" count="43" />
+      <entry feature="execute.PhpLocalRunConfigurationType.Debug" count="1" />
+      <entry feature="execute.PhpLocalRunConfigurationType.Run" count="23" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="34" />
+      <entry feature="git.branch.checkout.local" count="1030" />
+      <entry feature="git.branch.checkout.remote" count="27" />
+      <entry feature="git.branch.checkout.with.rebase" count="1" />
+      <entry feature="git.branch.compare" count="2" />
+      <entry feature="git.branch.create.new" count="187" />
+      <entry feature="git.branch.delete.local" count="14" />
+      <entry feature="git.branch.merge" count="595" />
+      <entry feature="git.branch.rename" count="1" />
+      <entry feature="git.checkout.as.new.branch" count="6" />
+      <entry feature="ide.help.Non-Project_Files_Access_Dialog" count="1" />
+      <entry feature="ide.help.ideaInterface.editor" count="6" />
+      <entry feature="ide.help.php.debugging.incoming.connection" count="1" />
+      <entry feature="ide.help.preferences" count="1" />
+      <entry feature="ide.help.reference.dialogs.breakpoints" count="1" />
+      <entry feature="ide.help.reference.dialogs.diff.file" count="1" />
+      <entry feature="ide.help.reference.dialogs.rundebug.PhpRemoteDebugRunConfigurationType" count="1" />
+      <entry feature="ide.help.reference.dialogs.vcs.commit" count="1" />
+      <entry feature="ide.help.reference.webide.settings.project.settings.php.debug" count="1" />
+      <entry feature="ide.help.select.path.dialog" count="1" />
+      <entry feature="ide.help.viewingStructure.projectViews" count="1" />
+      <entry feature="ide.settings.Appearance" count="6" />
+      <entry feature="ide.settings.Blade" count="2" />
+      <entry feature="ide.settings.Closure_Linter" count="1" />
+      <entry feature="ide.settings.Code_Sniffer" count="1" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="16" />
+      <entry feature="ide.settings.Console_Colors" count="18" />
+      <entry feature="ide.settings.Console_Font" count="3" />
+      <entry feature="ide.settings.DBGp_Proxy" count="14" />
+      <entry feature="ide.settings.Debug" count="55" />
+      <entry feature="ide.settings.Deployment" count="48" />
+      <entry feature="ide.settings.Directories" count="69" />
+      <entry feature="ide.settings.Editor_Tabs" count="10" />
+      <entry feature="ide.settings.File_Encodings" count="23" />
+      <entry feature="ide.settings.File_Types" count="1" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.HTML" count="2" />
+      <entry feature="ide.settings.Inspections" count="16" />
+      <entry feature="ide.settings.Intentions" count="1" />
+      <entry feature="ide.settings.JSCS" count="1" />
+      <entry feature="ide.settings.Language_Defaults" count="2" />
+      <entry feature="ide.settings.Live_Templates" count="1" />
+      <entry feature="ide.settings.PHP" count="36" />
+      <entry feature="ide.settings.PHPUnit" count="11" />
+      <entry feature="ide.settings.Plugins" count="6" />
+      <entry feature="ide.settings.Servers" count="7" />
+      <entry feature="ide.settings.Smart_Keys" count="2" />
+      <entry feature="ide.settings.Step_Filters" count="1" />
+      <entry feature="ide.settings.Time_Tracking" count="2" />
+      <entry feature="ide.settings.Vagrant" count="1" />
+      <entry feature="ide.settings.Version_Control" count="3" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="461" />
+      <entry feature="json.schema.builtin.completion" count="11" />
+      <entry feature="terminal.linux" count="505" />
+      <entry feature="terminal.ssh" count="3" />
+      <entry feature="tips.of.the.day.next" count="3" />
+      <entry feature="tips.of.the.day.prev" count="1" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
+      <entry feature="vcs.log.GoToHash/Branch/Tag" count="4" />
+      <entry feature="vcs.log.HighlightNon-PickedCommits" count="1" />
+      <entry feature="vcs.log.Refresh" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateDirectoryProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="17" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Update" count="1" />
+    </counts>
+  </component>
+</application>
