@@ -2,5 +2,8 @@
 
 ## To-Do
 - [x] IntelliJ IDEA settings
-- [ ] .gitconfig
+- [ ] Global .gitconfig
 - [ ] Global .gitignore
+- [ ] Wakatime config
+- [ ] Google Chrome bookmarks
+- [ ] Zsh config
